@@ -1,6 +1,5 @@
 print("Selamat Datang di Aplikasi Perhitungan Nilai Akhir Mahasiswa")
 
-# Meminta input nilai tugas, UTS, dan UAS dari pengguna
 tugas = float(input("Masukkan nilai tugas: "))
 uts = float(input("Masukkan nilai UTS: "))
 uas = float(input("Masukkan nilai UAS: "))
